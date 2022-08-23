@@ -5,9 +5,9 @@ A sample command-line application with an entrypoint in `bin/`.
 ## Implementation
 
 Implemented callback function in dart 3 different ways, 
-####through constructor, 
-####through setter 
-####and as a function parameter
+- #### through constructor, 
+- #### through setter 
+- #### and as a function parameter
 
 Here is complete tutorials, how to implement callback function in dart:
 
