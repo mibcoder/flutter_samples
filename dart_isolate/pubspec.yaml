@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   stream_channel: ^2.1.0
+  compute: ^1.0.2
 #   path: ^1.8.0
 
 dev_dependencies:
