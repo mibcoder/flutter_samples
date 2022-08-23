@@ -10,4 +10,4 @@ Create isolates in dart
 
 Here is complete tutorials, how to implement isolate in dart:
 
-- [MIB Coder Concurrency in Dart](https://mibcoder.com/dart-isolate-create-isolate/)
+- [MIB Coder Concurrency in Dart](https://mibcoder.com/isolate-in-dart-create-isolate/)
