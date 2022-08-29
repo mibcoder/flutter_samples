@@ -1,16 +1,9 @@
-# futures_flutter
+# Flutter Futures
 
-A new Flutter project.
+A sample command-line application with an entrypoint in `bin/`.
 
-## Getting Started
+## Implementation
 
-This project is a starting point for a Flutter application.
+Here is complete tutorials, how to create and consume in Flutter:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [MIB Coder Futures in Flutter](https://mibcoder.com/futures-in-dart-how-to-create-futures-in-4-easy-ways/)
