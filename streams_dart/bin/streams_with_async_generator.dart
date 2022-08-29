@@ -1,5 +1,4 @@
 void main(List<String> arguments) {
-
   //To call stream
   Stream<int> streamFromAsyncGenerator = createStreamUsingAsyncGenerator(const Duration(seconds: 1), 15);
 
@@ -19,7 +18,7 @@ Stream<int> createStreamUsingAsyncGenerator(Duration interval,int maxCount) asyn
 
   int counter = 0;
   while (true) {
-    
+
     await Future.delayed(interval);
     counter++;
 
